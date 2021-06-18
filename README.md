@@ -32,7 +32,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
   >>> Continue on TIFF based input/output flow implemetaion.
   >>> Testing the implemetation.
 
-3.. Is anything blocking your progress?
+3. Is anything blocking your progress?
 
   >>> There exists few issues regarding dependcy configuraion for the imageJ plugin and the mentors are contated and reported the issue.
 ```
@@ -52,7 +52,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
   >>> Pixel based groudtruth loading and dataset creation implemetation.
   >>> Testing the implemetation.
 
-3.. Is anything blocking your progress?
+3. Is anything blocking your progress?
 
   >>> No blockers at the moment.
 ```
