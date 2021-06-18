@@ -27,13 +27,34 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
   >>> TIFF based input/output flow for image and groud-truth loadig implemetation.
   >>> GUI bugs testing and enhancement for input flow of the plugin.
  
-3. What are you planning to do next week?
+2. What are you planning to do next week?
   
   >>> Continue on TIFF based input/output flow implemetaion.
   >>> Testing the implemetation.
 
-5. Is anything blocking your progress?
+3.. Is anything blocking your progress?
 
   >>> There exists few issues regarding dependcy configuraion for the imageJ plugin and the mentors are contated and reported the issue.
 ```
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
+### Week-2 (2021 June 14 - 2021 June 18)
+```markdown
+1. What have you been doing this week?
+
+  >>> Fixed issues of project meta information for loading and creating projects for segmentation.
+  >>> Fixed issues with Gaussian_K1 filter while loading and applying.
+  >>> GUI implemetaion for loading groudtruth from TIFF based groudtruth.
+  >>> Fixing issues with testFilter while loading filter.
+ 
+2. What are you planning to do next week?
+  
+  >>> Pixel based groudtruth loading and dataset creation implemetation.
+  >>> Testing the implemetation.
+
+3.. Is anything blocking your progress?
+
+  >>> No blockers at the moment..
+```
+
 
