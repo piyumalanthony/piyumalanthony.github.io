@@ -37,7 +37,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
   >>> There exists few issues regarding dependcy configuraion for the imageJ plugin and the mentors are contated and reported the issue.
 ```
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for -->
+
 ### Week-2 (2021 June 14 - 2021 June 18)
 ```markdown
 1. What have you been doing this week?
