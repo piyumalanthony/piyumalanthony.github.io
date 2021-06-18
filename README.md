@@ -54,7 +54,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 3.. Is anything blocking your progress?
 
-  >>> No blockers at the moment..
+  >>> No blockers at the moment.
 ```
 
 
