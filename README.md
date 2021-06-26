@@ -57,4 +57,20 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
   >>> No blockers at the moment.
 ```
 
+### Week-3 (2021 June 21 - 2021 June 25)
+```markdown
+1. What have you been doing this week?
 
+  >>> Pixel based image labels generation for segmentation.
+  >>> Studing the LUT procedure (Lookup tables for segementation labeling)
+  >>> GUI implemetaion for loading groudtruth from TIFF based groudtruth.
+ 
+2. What are you planning to do next week?
+  
+  >>> Furter implementation of Pixel based groudtruth loading and dataset creation.
+  >>> LUT addon to label identification.
+
+3. Is anything blocking your progress?
+
+  >>> No blockers at the moment.
+```
