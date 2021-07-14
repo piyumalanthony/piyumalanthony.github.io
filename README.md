@@ -74,3 +74,39 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
   >>> No blockers at the moment.
 ```
+
+### Week-4 (2021 June 28 - 2021 July 02)
+```markdown
+1. What have you been doing this week?
+
+  >>> Implemetation of lookup tables for segmentation masks.
+  >>> TIFF images loading.
+  >>> GUI implemetaion for lookup tables.
+ 
+2. What are you planning to do next week?
+  
+  >>> GUI refactoring for multi-label segmentation.
+  >>> LUT to enable labels.
+
+3. Is anything blocking your progress?
+
+  >>> No blockers at the moment.
+```
+
+### Week-5 (2021 July 05 - 2021 July 09)
+```markdown
+1. What have you been doing this week?
+
+  >>> GUI design for mutli-label segementation using lookup tables.
+  >>> Histogram based class label identification.
+
+ 
+2. What are you planning to do next week?
+  
+  >>> Integration of class labels identifaction and enabling procedure based on user inputs.
+  >>> Finalizing the input, output workflow.
+
+3. Is anything blocking your progress?
+
+  >>> No blockers at the moment.
+```
