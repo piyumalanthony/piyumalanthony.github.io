@@ -110,3 +110,39 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
   >>> No blockers at the moment.
 ```
+
+### Week-6 (2021 July 12 - 2021 July 16)
+```markdown
+1. What have you been doing this week?
+
+  >>> Groud Truth loading and GUI design for overlay.
+  >>> Overlay implemetation for groud truth visulaiztion.
+
+ 
+2. What are you planning to do next week?
+  
+  >>> Overaly GUI design for user inputs.
+  >>> LUT for overaly color changes.
+
+3. Is anything blocking your progress?
+
+  >>> No blockers at the moment.
+```
+
+### Week-7 (2021 July 19 - 2021 July 23)
+```markdown
+1. What have you been doing this week?
+
+  >>> Overaly implemetation based on number of classes for sgementaton.
+  >>> User interaction iwth overlay.
+
+ 
+2. What are you planning to do next week?
+  
+  >>> LUT for overlay.
+  >>> Ground truth based training.
+
+3. Is anything blocking your progress?
+
+  >>> No blockers at the moment.
+```
