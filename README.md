@@ -134,13 +134,71 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 1. What have you been doing this week?
 
   >>> Overaly implemetation based on number of classes for sgementaton.
-  >>> User interaction iwth overlay.
+  >>> User interaction with overlay.
 
  
 2. What are you planning to do next week?
   
   >>> LUT for overlay.
   >>> Ground truth based training.
+
+3. Is anything blocking your progress?
+
+  >>> No blockers at the moment.
+```
+
+
+### Week-8 (2021 July 26 - 2021 July 30)
+```markdown
+1. What have you been doing this week?
+
+  >>> Pixel-based training procedure implementation and dataset creation..
+  >>> Implementation of look table based overlay for segmented images.
+  >>> UI changes for ground-truth based training.
+
+ 
+2. What are you planning to do next week?
+  
+  >>> Optimizations for trainng procedure.
+  >>> Updating metadata for groundtruth based training.
+
+3. Is anything blocking your progress?
+
+  >>> No blockers at the moment.
+```
+
+
+### Week-9 (2021 August 2 - 2021 August 6)
+```markdown
+1. What have you been doing this week?
+
+  >>> Implementation of updating metadata file using loaded ground-truth.
+  >>> Implementation of updating metadata file using training procedure.
+  >>> Implementation of loading project from meta data.
+  >>> Optimization of training procedure.
+
+ 
+2. What are you planning to do next week?
+  
+  >>> Code refactoring.
+  >>> Final product submission.
+
+3. Is anything blocking your progress?
+
+  >>> No blockers at the moment.
+```
+
+### Week-10 (2021 August 9 - 2021 August 13)
+```markdown
+1. What have you been doing this week?
+
+  >>> Code refactoring.
+  >>> Final product submission.
+
+ 
+2. What are you planning to do next week?
+  
+  >>> Completion of final evaluation.
 
 3. Is anything blocking your progress?
 
