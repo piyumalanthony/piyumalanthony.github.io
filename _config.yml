@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Piyumal Anthony Demotte"
   avatar           : "profile.png"
-  bio              : "PhD Student/Bioinformatics"
+  bio              : "PhD Student | Bioinformatics | The Australian National University"
   location         : "Canberra, Australia"
-  employer         : "The Australian National University"
+  employer         :
   googlescholar    : "https://scholar.google.com/citations?user=CATSwmgAAAAJ&hl=en"
   email            : "piyumal.demotte@anu.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Piyumal-Demotte"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/piyumalanthony"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : "https://stackoverflow.com/users/10304430/demotte"
   steam            :
   tumblr           :
-  twitter          : "https://github.com/piyumalanthony"
+  twitter          : "https://twitter.com/DemotteAnthony"
   vine             :
   weibo            :
   xing             :
