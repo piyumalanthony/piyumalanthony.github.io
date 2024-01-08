@@ -25,7 +25,7 @@ Most recently I have been focusing on generative models, specifically normalizin
 
 # Recent News
 {% include base_path %}
-{% assign news = site.news | reverse %}
+{% assign news = site.portfolio | reverse %}
 {% assign first_post = news | first %}
 {% assign first_year = first_post.date | date: '%Y' %}
 {% assign first_day = first_post.date | date: '%j' %}
