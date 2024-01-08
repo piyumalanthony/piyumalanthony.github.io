@@ -86,8 +86,8 @@ author:
   location         : "Canberra, Australia"
   employer         : "The Australian National University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://https://scholar.google.com.au/citations?user=CATSwmgAAAAJ&hl=en"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=CATSwmgAAAAJ&hl=en"
+  email            : "piyumal.demotte@anu.edu.au"
   researchgate     : "https://www.researchgate.net/profile/Piyumal-Demotte"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/piyumal-anthony-demotte/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8144-580X"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/10304430/demotte"
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://github.com/piyumalanthony"
   vine             :
   weibo            :
   xing             :
