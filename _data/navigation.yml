@@ -10,7 +10,7 @@ main:
     url: /publications/
 
   - title: "News"
-    url: /talks/
+    url: /news/
 
   - title: "Blog Posts"
     url: /year-archive/
